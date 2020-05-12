@@ -1,3 +1,5 @@
+# Creation of Angular workspace to handle multiple applications at one place and share dependencies
+
 ## Command to create Angular workspace
 P:\ProgrammingSpace\AngularProjects\Angular-Workspace>ng new ngworkspace --createApplication="false"
 P:\ProgrammingSpace\AngularProjects\Angular-Workspace>cd ngworkspace
